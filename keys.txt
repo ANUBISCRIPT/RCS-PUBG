@@ -103,7 +103,6 @@
 617331110 - lossrc codware
 3746815735 -julianodelta codware
 2387733287 - Eyneroya codware
-2387733287 - 1 dia
 7237822 delarajr codware
 206654785 - dunostrader
 1419678876 - jonathas
@@ -179,3 +178,4 @@
 4170396556 - JOAO DO COD
 2765049025 - midrante
 2163484005 - matheusbrian
+1956094235 - ybleyck
